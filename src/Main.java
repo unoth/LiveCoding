@@ -30,8 +30,6 @@ public class Main {
         flow(boat);
         drive(amphibious);
         flow(amphibious);
-
-
     }
 
     static void drive(Car car) {
